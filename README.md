@@ -11,4 +11,4 @@ HDU OJ自动AC机 <br>
 6、点击回车，(。・`ω´・)然后，开始自动刷题！<br>
 <br>
 需要环境：x64系统 VS2015程序运行环境<br><br>
-详情请查看 <a href="https://www.myth1314.com/Article/?23.html">HDU 自动刷题机 AUTO AC （轻轻松松进入HDU首页）</a>
+详情请查看 <a href="http://www.dreamwings.cn/queue/auto-ac/1872.html">HDU 自动刷题机 AUTO AC （轻轻松松进入HDU首页）</a>
