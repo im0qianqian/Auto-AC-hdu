@@ -1,4 +1,5 @@
-# auto-AC-hdu<br>
+# auto-AC-hdu
+
 #<h3>HDU OJ自动AC机</h3> <br><br>
 看过了网上很多的OJ 自动刷题机，但是很多不能直接用，代码还没有想象中那么简洁，所以自己最终整合出这个Auto AC。
 已放出可执行文件哦！<br>
